@@ -1,6 +1,6 @@
 ### Flask ###
 instance/*
-!instance/.gitignore
+instance/.gitignore
 .webassets-cache
 .env
 
@@ -286,10 +286,10 @@ $RECYCLE.BIN/
 
 ### VisualStudioCode ###
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
 *.code-workspace
 
 # Local History for Visual Studio Code
@@ -301,4 +301,4 @@ $RECYCLE.BIN/
 .ionide
 
 # Scraping Directory
-.ScrapingGoraniPics
+ThisPath/ScrapingGoraniPics
