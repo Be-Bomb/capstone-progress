@@ -1,7 +1,3 @@
-
-# Created by https://www.toptal.com/developers/gitignore/api/macos,windows,flask,python,jupyternotebooks,venv
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,flask,python,jupyternotebooks,venv
-
 ### Flask ###
 instance/*
 !instance/.gitignore
@@ -288,6 +284,21 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,windows,flask,python,jupyternotebooks,venv
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
 
+# Local History for Visual Studio Code
+.history/
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# Scraping Directory
 .ScrapingGoraniPics
