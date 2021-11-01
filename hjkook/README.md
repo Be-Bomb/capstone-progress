@@ -12,3 +12,8 @@
 * **`flask-rasp.md`: [라즈베리파이 카메라 모듈-Flask 서버 연동 및 실시간 동영상 스트리밍 방법](./flask-rasp.md)**
   * 라즈베리파이 카메라 모듈과 Flask 서버를 서로 연동하고, Flask 서버에 카메라 모듈로 촬영하고 있는 영상을 실시간 스트리밍할 수 있도록 하는 예시 코드입니다.
   * 추후 좀 더 공부해서 스트리밍 영상 딜레이가 발생하지 않도록 보완할 예정입니다.
+
+
+# 2. 앱(Flutter)
+* **`flutter-flask.md`:[http get을 사용하여 Flutter와 Flask 연결](./flutter-flask.md)**
+  * 플러터와 서버(Flask)를 연결하여 json을 파싱하는 방법에 대한 코드입니다.
