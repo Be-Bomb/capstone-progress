@@ -15,5 +15,5 @@
 
 
 # 2. 앱(Flutter)
-* **`flutter-flask.md`:[http get을 사용하여 Flutter와 Flask 연결](./flutter-flask.md)**
+* **`flutter-flask.md`: [http get을 사용하여 Flutter와 Flask 연결](./flutter-flask.md)**
   * 플러터와 서버(Flask)를 연결하여 json을 파싱하는 방법에 대한 코드입니다.
