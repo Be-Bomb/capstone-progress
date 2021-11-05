@@ -25,4 +25,4 @@ python cam.py
 
 ## ⛔발생할 수 있는 오류들
 * `imutils` module 관련 에러: 그냥 `pip install imutils` or `pip3 install imutils` 해주기. 이것도 본인 버전에 맞게. 라즈베리파이는 `pip3`로 하기.
-* `zmp` module 관련 에러: 이것도 위와 같이 설치
+* `zm` module 관련 에러: 이것도 위와 같이 설치
