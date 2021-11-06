@@ -22,6 +22,7 @@
     * [OpenCV 및 Flask를 사용하여 웹 브라우저에서 비디오 스트리밍](https://ichi.pro/ko/opencv-mich-flaskleul-sayonghayeo-web-beulaujeoeseo-bidio-seuteuliming-162330575306240) | [깃허브](https://github.com/NakulLakhotia/Live-Streaming-using-OpenCV-Flask)
     * [Flask streaming Pedestrians detection using python opencv
 ](https://youtu.be/MAjbzx2zq-c) | [깃허브](https://github.com/seraj94ai/Flask-streaming-Pedestrians-detection-using-python-opencv-)
+    * [Python OpenCV 영상 웹스트리밍 서버(Windows 용)](http://wandlab.com/blog/?p=94)
 
 3. 통신
     * [스트리밍 서버를 이용한 AWS 기반의 딥러닝 플랫폼 구현과 성능
