@@ -16,6 +16,7 @@
     * [파이 카메라, 웹으로 전송](https://upcake.tistory.com/355)
     * [세종대 라즈베리 파이 교육](https://neosarchizo.gitbooks.io/raspberrypiforsejonguniv/content/chapter5.html)
     * [라즈베리파이 카메라 모듈 사용](http://www.3demp.com/community/boardDetails.php?cbID=233)
+    * [라즈베리파이로 CCTV 만들기](https://github.com/kairess/cctv_raspberrypi) | [유튜브](https://youtu.be/DIGwweDJCBk) | [티스토리](https://wonpaper.tistory.com/383) / 라즈베리파이 카메라를 서버로 tcp를 이용해서 전송한다.
 
 2. 웹 스트리밍
     * [mjpg-streamer를 사용한 웹 스트리밍을 OpenCV에서 가져오기](https://webnautes.tistory.com/1262) | [깃허브](https://github.com/jacksonliam/mjpg-streamer) (우리의 라즈베리 파이는 opencv 3인 것 같다.)
