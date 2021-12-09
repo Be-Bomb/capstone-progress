@@ -6,7 +6,7 @@
 ### 1주차(📆10/1~10/6)
 > #### 교수님 코멘트
 > 데이터 수집/활용 계획 구체화, 공부한 내용을 어떻게 활용할 것인지
-* `국희진`: Flask 가상환경 생성 방법, Flask서버-라즈베리 파이 연동 및 코드 분석, 이미지 데이터셋(고라니, 멧돼지) 모으기 위한 웹 크롤러 수정, 적절한 사람 이미지 데이터셋 검토 중.
+* `국희진`: Flask 가상환경 생성 방법, Flask서버-라즈베리 파이 연동 및 코드 분석, 이미지 데이터셋(고라니, 멧돼지) 모으기 위한 웹 크롤러 수정, 적절한 사람 이미지 데이터셋 검토 중
 * `박재현`: Flask 기본적 개념, 환경세팅, 기본 예제 공부 ([`Flask 클론코딩`](https://www.youtube.com/channel/UCCaunu3Cv09ZCDxU13Gx3Hg/videos), [`Flask 기초설명`](https://wings2pc.tistory.com/entry/%EC%9B%B9-%EC%95%B1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%81%ACPython-Flask-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98Web-Application-%EC%8B%9C%EC%9E%91))  
 기존 저장되어있는 영상을 인식하는게 아닌 스트리밍중인 영상의 실시간 객체인식이 필요하기 때문 추가 공부가 필요할 것.
 
