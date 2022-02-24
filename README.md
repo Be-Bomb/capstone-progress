@@ -112,16 +112,12 @@
 
 
 ***
-## 동계방학 주차별 Progress 기록
-### 1주차(📆12/26~12/29)
-> #### 목표: 
-* `국희진`:
-* `박재현`: 
-* `송혜민`:
-
-### 2주차(📆12/30~1/5)
-> #### 목표: 
-* `국희진`: 
-* `박재현`: 
-* `송혜민`:
-* `이경로`:
+## 동계방학 Progress 기록
+### 기간(📆21/12/26~21/2/28)
+> #### 😎국희진
+> * SORT알고리즘(객체추적) 수정 및 적용
+> * Flask-Flutter-Firebase 연동
+> * FCM Messaging 사용하여 Flask서버에서 Flutter로 푸시알림 보내기
+> * Background/foreground/terminated state에서 heads-up notification 구현
+> * 앱에서 인앱브라우저로 CCTV 스트리밍 보는 것이 아니라 바로 CCTV화면 볼 수 있도록 구현(webview)
+> * APP Token 앱에서 서버로 http 통신사용하여 바로 전송하기
