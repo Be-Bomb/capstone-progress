@@ -121,3 +121,8 @@
 > * Background/foreground/terminated state에서 heads-up notification 구현
 > * 앱에서 인앱브라우저로 CCTV 스트리밍 보는 것이 아니라 바로 CCTV화면 볼 수 있도록 구현(webview)
 > * APP Token 앱에서 서버로 http 통신사용하여 바로 전송하기
+
+***
+## 2022년 1학기 주차별 Progress 기록
+### 1주차(📆3/3~3/9)
+* `국희진`: 앱-딜레이 이슈 해결, 앨범 grid 배치, 
